@@ -17,3 +17,6 @@
 # Learning
  * 🐍 Python
  * 🦇 C#
+
+# Favorite projects
+ * https://github.com/JijaProGamer/youtubeWatchBot
